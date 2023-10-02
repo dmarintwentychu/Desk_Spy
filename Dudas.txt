@@ -1,0 +1,5 @@
+1º Desbalance de datos 
+2º Crear dos datasets?
+   a) Primero con varios textos con todas las letras posibles
+   b) Pulsando la misma tecla varias veces (Como lo hacen los de zoom)
+3º 
